@@ -1,0 +1,26 @@
+{
+  "name": "graph",
+  "version": "1.0.0",
+  "description": "Graph drilldown ",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.6.2",
+    "body-parser": "^1.18.3",
+    "bunyan": "^1.8.12",
+    "dotenv": "^7.0.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.11",
+    "log": "^6.0.0",
+    "mongodb": "^3.2.3",
+    "mongoose": "^5.5.3",
+    "path": "^0.12.7",
+    "require-all": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aman jung karki",
+  "license": "ISC"
+}
